@@ -1,6 +1,7 @@
 ## Laravel 5.1 SweetAlert
 
-Special thanks to https://github.com/socieboy/alerts for this package but changed a few things and wanted to learn myself how to make this sort of package also, so Kudos to Socieboy :)
+Laravel package to use the javascript SweetAlert with Laravel Service Provider.
+Simple package, but effective.
 
 ##Installation
 
@@ -71,3 +72,6 @@ If you have any questions or issues, please open an Issue and I will look at thi
 ###SweetAlert website
 
 http://t4t5.github.io/sweetalert/
+
+### Thanks
+Special thanks to https://github.com/socieboy/alerts for this package but changed a few things and wanted to learn myself how to make this sort of package also, so Kudos to Socieboy :)

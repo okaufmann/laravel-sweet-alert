@@ -1,7 +1,8 @@
 {
     "name": "infinety/sweetalert",
-    "description": "A package for using sweet alert with Laravel 5.1 >",
-    "keywords": ["laravel", "alert", "sweet-alert"],
+    "description": "A package for using SweetAlert with Laravel 5.1 >",
+    "keywords": ["laravel", "alert", "sweet-alert", "laravel sweet alert"],
+    "type": "package",
     "license": "MIT",
     "authors": [
         {
