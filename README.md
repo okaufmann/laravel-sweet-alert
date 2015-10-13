@@ -7,7 +7,7 @@ Special thanks to https://github.com/socieboy/alerts for this package but change
 Add to your composer.json file the package.
 
 ````
-"infinety/sweetalert": "^0.1.0"
+"infinety/sweetalert": "dev-master"
 ````
 
 Update your dependencies
