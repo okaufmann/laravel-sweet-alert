@@ -2,9 +2,8 @@
 
 namespace Infinety\SweetAlert;
 
-
-class Flash {
-
+class Flash
+{
     /**
      * Create the flash message.
      *
@@ -15,7 +14,7 @@ class Flash {
      */
     public function create($title, $message, $type, $key = 'flash_message')
     {
-        session()->flash($key,[
+        session()->flash($key, [
             'title'     => $title,
             'message'   => $message,
             'type'      => $type
@@ -58,4 +57,4 @@ class Flash {
     {
         return $this->create($title, $message, $type, 'sweet_alert_message_overlay');
     }
-} 
+}
