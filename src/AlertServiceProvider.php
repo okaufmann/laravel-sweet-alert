@@ -16,6 +16,7 @@ class AlertServiceProvider extends ServiceProvider
         $this->publishFiles();
         $this->loadViewsFrom(__DIR__.'/Views', 'Alerts');
     }
+
     /**
      * Register the application services.
      *
@@ -25,6 +26,7 @@ class AlertServiceProvider extends ServiceProvider
     {
         include __DIR__ . '/helpers.php';
     }
+
     /**
      * Publish the style and scripts for the sweetalert.
      */
