@@ -35,7 +35,7 @@ class AlertServiceProvider extends ServiceProvider
         $this->publishes([
             __DIR__.'/Libraries/sweetalert.css' => public_path('css/sweetalert.css'),
             __DIR__.'/Libraries/sweetalert.js' => public_path('js/sweetalert.js'),
-            __DIR__.'/Views/alerts.blade.php' => base_path('resources/views/vendor/SweetAlert/alerts.blade.php'),
+            __DIR__.'/Views/alerts.blade.php' => base_path('resources/views/vendor/alerts/alerts.blade.php'),
         ], 'alerts');
     }
 }
