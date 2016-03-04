@@ -8,7 +8,7 @@ Simple package, but effective.
 Add to your composer.json file the package.
 
 ````
-"infinety/sweetalert": "dev-master"
+"infinety/sweetalert": "0.1"
 ````
 
 Update your dependencies
