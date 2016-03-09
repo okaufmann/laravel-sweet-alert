@@ -18,5 +18,5 @@
             "Infinety\\SweetAlert\\": "/src"
         }
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "0.1"
 }
