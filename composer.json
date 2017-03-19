@@ -1,5 +1,5 @@
 {
-    "name": "infinety/sweetalert",
+    "name": "okaufmann/sweetalert",
     "description": "A package for using SweetAlert with Laravel 5.1 >",
     "keywords": ["laravel", "alert", "sweet-alert", "laravel sweet alert"],
     "type": "package",
